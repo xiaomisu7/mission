@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Dog push particular control wish front.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
