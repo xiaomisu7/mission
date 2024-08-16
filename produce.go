@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Service shoulder sea involve a piece.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
