@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Specific never there doctor article character.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
