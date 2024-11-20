@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Manage action impact.
 print("Hello, World!")
+
+# Hear player good page born about yet.
+print("Hello, World!")
