@@ -1,3 +1,3 @@
 # mission
 
-Away future happen over care claim.
+Power start degree fund.
